@@ -1,0 +1,24 @@
+{
+  "name": "innsindia",
+  "version": "1.0.0",
+  "description": "Info of Inns India Chapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inns",
+    "india",
+    "neural",
+    "network",
+    "society",
+    "international",
+    "neural",
+    "network"
+  ],
+  "author": "Rahul, Anant",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
